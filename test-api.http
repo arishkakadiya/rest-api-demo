@@ -1,5 +1,5 @@
 # GET root URL
-GET http://localhost:8000/
+GET http://arishkakadiyarestapidemo:8000/
 Accept: text/plain
 
 ###

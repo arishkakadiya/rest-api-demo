@@ -62,7 +62,7 @@ Some key features of Azure App Service include:
 - **Monitoring and Diagnostics**: Access real-time monitoring and logs for troubleshooting.
 
 
-You can learn more about Azure App Service and its features in the [official documentation](https://learn.microsoft.com/en-us/azure/app-service/).
+You can learn more about Azure App Service and its features in the [official documentation](https://learn.microsoft.com/en-ust/azure/app-service/).
 
 To learn how to deploy a Python web app (Django, Flask, or FastAPI) to Azure App Service, refer to the [Quickstart Guide](https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=flask%2Cwindows%2Cazure-cli%2Cazure-cli-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli). This guide walks you through deploying a Python web app to Azure, leveraging App Service to run your app in a Linux server environment.
 
